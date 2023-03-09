@@ -2,8 +2,6 @@
 
 BUG_Author: godownio
 
-Website source address:https://www.sourcecodester.com/php/11510/file-tracker-manager.html
-
 Vulnerability File: /file_manager/login.php
 
 POST parameter 'username' exists SQL injection vulnerability

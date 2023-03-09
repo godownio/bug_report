@@ -1,4 +1,4 @@
-# File Tracker Manager System v1.0 has Cross-site scripting (reflected)
+# File Tracker Manager System v1.0 has SQL injection
 
 BUG_Author: godownio
 
